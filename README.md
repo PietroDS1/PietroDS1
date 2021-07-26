@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 #### My name is Pietro, I`m from Brazil, I`m Full Stack Java Developer, that has been worked with full stack since 2021. 
  I really love solve problems and make people happy! 
 • 🎓 Developer Fullstack Java Jr;
-• 📍  Live in São Paulo- SP
+
+• 📍  Live in São Paulo- SP;
+
 • 🎓 Majoring in digital games;
 
 ### Entre em contato comigo através das minhas redes sociais📲
