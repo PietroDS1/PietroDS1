@@ -63,4 +63,4 @@ Thank you, I hope I see you later!
 </p>
 
 
-![Snake animation](https://github.com/PietroDS1/PietroDS1/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PietroDS1/PietroDS1/blob/output/github-contribution-grid-snake.svg)
