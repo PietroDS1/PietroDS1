@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 • 📍  Live in São Paulo- SP;
 
-• 🎓 Majoring in digital games;
+• 🎓 Majoring in Digital Games;
 
 ### Get in touch with me through my social networks:📲
 <a href="https://www.instagram.com/pietrodanton/" alt="Instagram" target="_blank">
