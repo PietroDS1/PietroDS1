@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 • 🎓 Majoring in digital games;
 
-### Entre em contato comigo através das minhas redes sociais📲
+### Get in touch with me through my social networks:📲
 <a href="https://www.instagram.com/pietrodanton/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lucxs.lm_">
 </a>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
    
 
-### Minhas informações aqui no GitHub:
+### My Stats from GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroDS1&theme=tokyonight&show_icons=true)
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroDS1&theme=tokyonight&layout=compact)](https://github.com/PietroDS1/github-readme-stats)
