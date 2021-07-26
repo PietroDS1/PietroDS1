@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi,  I`m Pietro, Welcome!
-#### My name is Pietro, I`m from Brazil, I`m Full Stack Java Developer, that has been worked with full stack since 2021. 
+### Hi,  I am Pietro, Welcome!
+#### My name is Pietro, I am from Brazil, I am Full Stack Java Developer, that has been worked with full stack since 2021. 
  I really love solve problems and make people happy! 
  
 • 🎓 Developer Fullstack Java Jr;
