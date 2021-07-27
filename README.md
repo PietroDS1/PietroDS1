@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi,  I am Pietro, Welcome!
-#### My name is Pietro, I am from Brazil, I am Full Stack Java Developer, that has been worked with full stack since 2021. 
- I really love solve problems and make people happy! 
+#### My name is Pietro, I am from Brazil, I am a Full Stack Java Developer, that had been working with full stack since 2021. 
+ I really love to solve problems and make people happy! 
  
 • Developer Fullstack Java Jr;
 
