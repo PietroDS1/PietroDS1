@@ -54,10 +54,7 @@ Here are some ideas to get you started:
 
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroDS1&theme=tokyonight&layout=compact)](https://github.com/PietroDS1/github-readme-stats)
 <p align="center">
-Number of visits to my profile since: 01/01/2021 <br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/PietroDS1/count.svg" /></p>
-<p align="center">
+
 Thank you, I hope I see you later!
 </p>
 
