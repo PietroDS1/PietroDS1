@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Get in touch with me through my social network: 
 
 <a href="https://www.linkedin.com/in/pietro-danton-580573207/" alt= "LinkedIN" target= "_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/pietro-danton-580573207/">
+ <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=green&link=https://www.linkedin.com/in/pietro-danton-580573207/">
 </a>   
 
 ### Technologies, Languages and frameworks:
