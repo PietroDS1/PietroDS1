@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <p align="center">
 Number of visits to my profile since: 01/01/2021 <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/PietroDS1/count.svg" /></p>
+   
 <p align="center">
 Thank you, I hope I see you later!
 </p>
