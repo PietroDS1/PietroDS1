@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 
 ### My Stats from GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroDS1&theme=tokyonight&show_icons=true)
-
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PietroDS1&theme=tokyonight&layout=compact)](https://github.com/PietroDS1/github-readme-stats)
 <p align="center">
 
