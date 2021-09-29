@@ -41,6 +41,7 @@ Here are some ideas to get you started:
  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=blue"/>
  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=blue"/>
  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=blue"/>
+ <img class="fab fa-bootstrap" style=for-the-badge&logo=spring&logoColor=blue"></img>
    
 
 ### My Stats from GitHub:
