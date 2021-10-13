@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
 • Developer Fullstack Java Jr;
 
-• Majoring in Digital Games;
+• Majoring in Digital Games/Software Engineering;
 
 
 
