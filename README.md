@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=blue"/>
  <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=blue"/>
  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-gray?style=for-the-badge&logo=bootstrap&logoColor=blue "/>
-   
+ <img alt="Phaser" src="https://img.shields.io/badge/Phaser-red?style=for-the-badge&logo=phaser&logoColor=blue "/>
 
 ### My Stats from GitHub:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PietroDS1&theme=tokyonight&show_icons=true)
