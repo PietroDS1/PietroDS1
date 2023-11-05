@@ -14,16 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 
-#### My name is Pietro, I am from Brazil, I am a Full Stack Java Developer, that had been working with full stack since 2021. 
- I really love to solve problems and make people happy! 
- 
-• Developer Fullstack Jr;
-
-• Major in Digital Games;
-
-• Majoring in Computer Science;
-
+# Pietro Danton
+* Location: São Paulo, São Paulo, Brazil
+* Occupation: Software Engineer
+* Email: <danton.pietro@gmail.com>
+* LinkedIn: 
+[linkedin.com/in/pietro-danton](https://www.linkedin.com/in/pietro-danton-580573207/)
+## Summary
+Hello, my name is Pietro and yes, my favorite number is 3.14. I have always had a desire to help others, 
+and that led me to pursue a career in technology, which I believe is the best part of me. Video games 
+have played a significant role in my life, and as I grew older, my passion for them has only grown 
+stronger. They helped me overcome depression and find happiness. This personal background has 
+fueled my ambition to improve the lives of people who have experienced similar challenges, which is 
+why I became a programmer. Today, I can proudly say that the products and applications I develop have 
+the potential to fulfill my dream of transforming lives.
+## Experiência
+### Desenvolvedor Full Stack
+**SManager** · Autônomo
+* Janeiro de 2023 - Julho de 2023 (7 meses)
+* São Paulo, Brasil (Trabalho Remoto)
+* Desenvolvi aplicações utilizando Java, Spring Boot, Spring MVC, Spring Security e Spring 
+Framework.
+### Desenvolvedor Java Jr
+**Tokio Marine Seguradora** · Tempo integral
+* Junho de 2022 - Janeiro de 2023 (8 meses)
+* São Paulo, São Paulo, Brasil
+* Utilizei Spring Boot, Spring MVC, Spring Security, Java e Spring Framework em projetos de 
+desenvolvimento.
+### Desenvolvedor Java Jr
+**Datum TI** · Tempo Integral
+* Junho de 2022 - Janeiro de 2023 (8 meses)
+* São Paulo, São Paulo, Brasil
+### Desenvolvedor de Software
+**Perugluglu Interactive** · Tempo integral
+* Outubro de 2021 - Junho de 2022 (9 meses)
+* São Paulo, Brasil
+## Education
+* Bachelor of Science, Jogos Digitais (Digital Games), Universidade Cruzeiro do Sul
+* Full Stack Java Developer, Generation Brasil
+* Computer Programming, Generation Brasil
+* Technical Diploma, ETEC - Escola Técnica Estadual de São Paulo
 
 ### Get in touch with me through my social network: 
 
