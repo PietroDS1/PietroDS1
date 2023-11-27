@@ -50,10 +50,11 @@ desenvolvimento.
 * Outubro de 2021 - Junho de 2022 (9 meses)
 * São Paulo, Brasil
 ## Education
-* Bachelor of Science, Jogos Digitais (Digital Games), Universidade Cruzeiro do Sul
+* Bachelor of Technology, Jogos Digitais (Digital Games), Universidade Cruzeiro do Sul
+* Bachelor of Science, Ciência da Computação (Computer Science), Universidade Cruzeiro do Sul
 * Full Stack Java Developer, Generation Brasil
 * Computer Programming, Generation Brasil
-* Technical Diploma, ETEC - Escola Técnica Estadual de São Paulo
+* Technical Diploma Eletrônica, ETEC - Escola Técnica Estadual de São Paulo
 
 ### Get in touch with me through my social network: 
 
