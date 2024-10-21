@@ -28,27 +28,7 @@ stronger. They helped me overcome depression and find happiness. This personal b
 fueled my ambition to improve the lives of people who have experienced similar challenges, which is 
 why I became a programmer. Today, I can proudly say that the products and applications I develop have 
 the potential to fulfill my dream of transforming lives.
-## Experiência
-### Desenvolvedor Full Stack
-**SManager** · Autônomo
-* Janeiro de 2023 - Julho de 2023 (7 meses)
-* São Paulo, Brasil (Trabalho Remoto)
-* Desenvolvi aplicações utilizando Java, Spring Boot, Spring MVC, Spring Security e Spring 
-Framework.
-### Desenvolvedor Java Jr
-**Tokio Marine Seguradora** · Tempo integral
-* Junho de 2022 - Janeiro de 2023 (8 meses)
-* São Paulo, São Paulo, Brasil
-* Utilizei Spring Boot, Spring MVC, Spring Security, Java e Spring Framework em projetos de 
-desenvolvimento.
-### Desenvolvedor Java Jr
-**Datum TI** · Tempo Integral
-* Junho de 2022 - Janeiro de 2023 (8 meses)
-* São Paulo, São Paulo, Brasil
-### Desenvolvedor de Software
-**Perugluglu Interactive** · Tempo integral
-* Outubro de 2021 - Junho de 2022 (9 meses)
-* São Paulo, Brasil
+
 ## Education
 * Bachelor of Technology, Jogos Digitais (Digital Games), Universidade Cruzeiro do Sul
 * Bachelor of Science, Ciência da Computação (Computer Science), Universidade Cruzeiro do Sul
